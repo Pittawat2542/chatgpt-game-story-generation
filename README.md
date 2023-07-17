@@ -1,6 +1,4 @@
-# Enhancing ChatGPT's Thinking Abilities: Unleashing Creativity through Random Idea Integration
-
-## Abstract
+# ChatGPT Story Generation
 
 TBD
 
@@ -13,4 +11,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-Script for data preparation is located in `data_preparation.py`. Result of data generation is located in `data/results.json`.
