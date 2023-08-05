@@ -1,0 +1,1504 @@
+{
+    "evaluation_results": [
+        {
+            "id": "e1915d59-5097-44a6-ab05-98d19694b00e",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "b1196b23-fce6-4b75-9cf8-9e8e6c0569ec",
+            "story_type": "positive",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"positive\"\n}\n```"
+        },
+        {
+            "id": "c6331d5f-f381-4efe-a23e-2eec29d37353",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "4636d6be-c274-433a-853e-719e41c078dc",
+            "story_type": "positive",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"positive\"\n}\n```"
+        },
+        {
+            "id": "4dfb45f0-d0e3-4fbd-b597-71b7133877ab",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "eb482759-7f92-4133-8177-84fc25e28b69",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "58808567-da50-4d63-9a96-2852b539c5ce",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "da3fe384-e03d-44e4-8790-b6269647d163",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "32795662-9894-4c55-b303-1be3a5709e05",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "8c56f796-a7a1-41a7-b138-66d967b8f529",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "a70b16fc-e080-4d44-9c68-b62d60a265ed",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3947292e-0d48-4ed3-946d-56638793b0f5",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "6ab59e6f-7c02-48a1-9edb-c7ecc917a4e7",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "cc88458e-ba87-4131-952e-b4a3b7e3df4a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "271bc8b7-2a57-44e9-9589-1947161d2d9a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2acef4f2-e6dc-4d24-9f0f-8a6a83a5a3af",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "13277fc9-801b-4a32-aff9-76e4ec7fdd2a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e3c11bca-e563-45f8-86c6-7b2cbbc3f8e0",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2a009abf-7d82-4569-909d-979d1d75f25a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "f8434873-d247-4638-a6f1-3e8af1108928",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2e69b9ec-1ad9-4359-83b6-3c08d9b24b20",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "0e4c6051-7f3d-4b60-97e6-4bc49eb0a9fe",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2a7ce9f9-c8dc-4567-a4d9-599a0e28e29a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "9a891fc0-5e9b-444b-96f5-a64afda07ab0",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "1af03c29-bfae-46c6-b5dc-31b4f75e31e6",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e6fca13c-3c6a-41cd-bf27-59ce00d46751",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "65bfceb2-1478-4d38-9b15-5ed84d73bdfa",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "74c376fd-bf5b-4c6a-97fa-75f870108d8f",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "f9a66239-df6c-4515-b316-8c95baadebbd",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "cb343b00-248d-4cd5-90dc-c8c9914a08ca",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "d9e4a502-f7fc-4b76-88b5-49f8642294b2",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2b2fe3d1-a321-4f1b-8eba-a973cf036fc3",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "8f345d6e-8649-4d92-9b3c-76de7f95526d",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "54a8bc2c-a0d0-4ae7-b939-08fde1f1d60e",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e264fb25-bafa-4bb9-bef9-5c6cb77b413c",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "d4c60ded-2208-4b97-9213-54003d8047e0",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "1eebbe03-b8f9-4494-8cef-6a27dd3be83d",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3d10d30c-e1c4-41c8-bb3c-bc7c03f3952b",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "0fea246a-d761-436a-a9b1-b80f0b4b9add",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "61d93df5-220e-4252-a14f-909b3cbc5f71",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3521a6ed-ad36-4290-aba4-02fed3dce192",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "958589d4-87b0-4c1c-9fa2-a7dab91483b4",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "f80474ae-6c96-4695-b750-c75a754cc69f",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "84298dd2-f4e8-43b6-a73e-dfe0c6657f48",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "4836acef-f6bf-4993-869b-b4071bf40994",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "5d9f704f-3545-4d5a-8d71-b16c44e3f7a4",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e2f7e285-2ffb-477e-bc8a-7268bc9584a3",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "127728c9-67f3-4fb2-b9d2-a1237e16a652",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "128e4796-288f-492c-993d-5ba0c10eed2c",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e43c9f20-6101-4d6b-9219-b053ca5b04a8",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "34956dfd-b9a8-4f54-8569-dd727604cb1f",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "bfa46329-d40c-42a5-9308-d66b751e3a23",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "b9b38278-96d7-4fca-8265-dfc138d65d2f",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "c681ffe4-3e3e-45c5-8daa-8b21ea03e392",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "b956437d-7f13-4747-b6db-ab678fb6a3ca",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "df959afb-f387-49fc-8326-a7103177872b",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "bef96e56-698c-4534-9d64-35c89491813b",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "fe3ceefa-6250-4b6d-9f00-e01b6285a8ea",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "ed0c5b38-d775-4861-9c5f-9e160418eb64",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "9d30415a-600c-4069-b24c-9843e8c86bcc",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "51f37283-dfa1-4059-a11e-94f0b234e0d1",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "5e56cdd5-a97c-47ce-8b8f-48deb1f641d2",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "a50639df-6389-4dca-8b70-92e2934a64da",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "1ae6b3e9-9c17-4627-b54e-b4698f798b0a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "29ffe8c1-08e6-412f-9c9e-d465feb2d26b",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e3280334-8756-49ba-a17c-74c42b8e52c4",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3bb76c00-eff1-4216-af44-7a004981c349",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "29e4e26c-f0bb-43d7-99e1-9aabc6745755",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "6f770a7b-6246-42e9-b206-8f68f0d36840",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "6d92e516-c46c-4a8d-84ae-8ac46dd25f24",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "0a9e3ec7-ac62-4cb5-8748-e84a3f45fad4",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e0448058-89c1-4b3f-aaab-75e4641ca772",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e212440e-7948-40bd-9170-71fabca658c9",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3197e88e-9e8c-4930-974d-e42770811be9",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "b98b908f-e450-4394-83f4-7ad354197502",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "326cbe78-d5bf-4af7-8416-cb8416e22755",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "db710182-0fcc-4cb4-b1d0-7b47ab7783cf",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "65deee33-edfe-4f06-9346-36000560c811",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "b13fc524-ea48-4162-8881-5682e4f98091",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "8bc59591-cee0-4626-a338-0b04abdc66bc",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "49097593-3a52-4d42-b3ca-d42574c3403d",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3e12839f-9e35-4efd-9b41-6c27033a36a7",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "99218bde-23fb-4b33-909f-c21545ec6479",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "8c6d61a3-2588-46e1-b292-030d45bad7d2",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "7a1f1c5b-8f1e-45ea-854f-6c046fda82c1",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "18553d15-43ca-4e46-b652-48e4fa52cdde",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "c6e479dc-63f0-411b-88bb-18793effe6ca",
+            "story_type": "positive",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"positive\"\n}\n```"
+        },
+        {
+            "id": "72422038-b137-48f8-be16-5a434565fa48",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "37fa0063-d3e8-4a40-baa0-002b096139b0",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "f29f7166-c927-4498-8329-6cc132dad229",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "d342192d-eb22-45de-8e35-6e9e4d718fe7",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "5d24e0a9-d5d3-402a-92e2-a8d2cf551ef8",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "dabc8ff5-1526-4081-b27e-ac4a74a9df31",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "0e1870c7-010b-4334-95d8-2a7c8739c6bd",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "58c275f4-aa75-4cac-9442-d1020626cee3",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "6bc11c12-61ea-4640-a8b3-dd75dfcf1149",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "e2c7c214-0590-40d0-bc51-8e636842f377",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3beaf385-a98e-4f76-951e-c689ff9ed083",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3365c1ef-f211-461e-964f-3dde32354e7a",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2a24a9ae-9c05-4bbd-8411-c8dc47418b18",
+            "story_type": "positive",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "117d03d0-7a23-4b41-9618-ac7020e8c253",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "5107ed1a-c11e-4542-959a-c8f8af893512",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "bd69d108-6712-4da5-bf43-5ec7cc96e653",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "64798fcc-6863-4063-9a0f-174619aa876d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "8fc501de-d7bd-469d-8b5e-29d2ce2c47f2",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "87b1fea0-0a41-4954-b2f9-8830bcd67acd",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "832c70fa-17be-42f4-8caa-807f292c06c1",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "9d3f7b98-25e4-40d0-8e71-194e64d3e879",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "cc651048-9b44-4cdd-8d98-8977aec94377",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "db20cde3-1d56-434f-a69c-d6402da5d031",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "6bf96d4d-6d8b-4b28-a815-d324768cde1b",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "71ad1840-3fa3-4026-965b-f6b8f09779b5",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "3ce82665-34f5-47a3-8fab-dfbd53a40349",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "6b86d893-adb7-485b-89f1-ec60a7cb2205",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "1c88807e-df35-4e50-a2f5-d99a125a1ab0",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "7b514cbe-625b-4e6d-b56b-c9e51904f1d0",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "3c9d3571-65e0-4135-9ab4-a71e25985c70",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "f599c7e3-29a7-4b5a-b37f-0a7abbbc6d25",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "5b52f809-def3-4eda-9d3e-df2540d9b585",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "56513617-6188-49a7-be9e-eb36755aa29f",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "eac47cdc-9d42-4803-ac78-d5fb2c9f82f1",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "a41ae815-f88b-4b0a-b846-f84327549b7b",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "6cf543b8-da89-4b39-8990-7b7bcea6bd4d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "61491563-02a2-4c60-bebd-0e4fb1db3cfc",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "f1dd460c-1f2c-49ca-8ccf-c9122a1c19d2",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "1e73617f-0501-466c-8aa7-81397555b52b",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "9ebd98f0-1d91-4903-ac59-85138b0562d7",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "36312cfe-d195-46c5-b156-376fd52fee8e",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "d786b381-9ca4-4ad2-a868-7a82c9970c52",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "edea93c6-53e8-43d9-aa8b-70008d4ae577",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "1d7197e2-4718-4723-b759-b5977dd6e1d7",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "265b05e7-4aa0-4080-bbfc-76aaf15a68e2",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "8527a59e-75db-40f0-a4bb-93e683131576",
+            "story_type": "negative",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"negative\"\n}\n```"
+        },
+        {
+            "id": "1f25b90f-ff10-4dce-8e4d-5bf728634d5f",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "93c20d3c-00e9-469c-bda2-06ac11b156ca",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "ae3cdb47-8c05-48dd-853f-6a39dfe3db37",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "2f565301-0086-4609-8a1e-6c924f6c6f57",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "634732c8-c608-49e3-b5a8-367a8b390132",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "d8ae7366-06fb-4719-8986-1755b7f61543",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "d8e99ce6-b13a-43b6-ab90-761691419534",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "22ac6fe7-cbd2-4235-9ac7-33a2d16fe265",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "8b5994b4-fd00-4807-8887-8ac3b71d4e3d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "0d79d725-652f-4df2-8658-e52731eae1bb",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "877289fe-1afb-42d9-a8fe-49b7869f3149",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "61575449-f377-45e9-a0b6-d07e9fc604b9",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "12e25b18-a633-457d-b0e4-22e9b9ce748e",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "3d1e0b24-3129-468d-8246-ab82f6a23760",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "da7a449d-c8d5-4e5f-b238-fea7b49f7ee2",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "26c295e1-f198-466c-b4bb-16a8fe7077bf",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "115b105e-2295-4bab-aca8-979783858626",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "5544fe86-8bfa-4fa0-a349-667be6ba963d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n  \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c24b2e23-c6df-4003-919f-a1570d078d97",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "7273baff-e883-4c17-b73a-e878de2e7faf",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "3c81686f-04c1-4552-afc8-0e39423647f9",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "4bdbb375-40a0-46bd-99bc-ccd019bebd7f",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "50a76049-4c3d-4f0f-914f-657bacf69cd9",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "77e4ce37-e658-4630-aa83-ab3ccc5ced79",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "32d81b4a-f913-40ae-b725-2b23e078e615",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "cfa1e53b-4f92-4b28-a5e6-2261369a3fda",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "6cda9b18-32e5-4fb3-8756-1854f260419c",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c65354b5-c3fb-46dc-b80b-2ddc868a6757",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "5d788225-9e27-480c-b1da-0b106fc30a00",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "6b18d01d-0cbe-49e8-a46c-6d332606a260",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "561e80cc-1e79-4e2d-a295-5fa7040d289d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "b43cb4ab-cada-4967-8426-9d2c39dfba26",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "90739797-34d4-459d-af0d-909c94e533e5",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "5b579a25-1b40-4382-b47c-3acc60eb7bff",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "f431d02c-37f2-4b43-ac8d-f9b1888083d3",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "474a6a39-a1a1-4d75-a20e-5bcb215e4ae3",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c707481c-13ef-4ba9-a168-b9e6a163a564",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "7b24659d-4d28-4f98-b951-886e09dbbf8a",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "651f120d-4f25-485f-bf38-24c63b2e8ff7",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c603308f-de2f-46e2-bc54-42f2f9f04c84",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "7b5c3060-16ce-4057-9b06-e3df263aac94",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "46c98bb8-867b-40ee-b43f-ec6ae2820150",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "ac4aa18c-2170-40bd-9338-8a3458368b50",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "83f657c2-a88f-4e2a-a1ec-e9d7652cf87d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c3072546-3a4f-4b37-aa4a-d2dd03366401",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "e633de63-43e8-4f1b-be17-eb3d96c41ec5",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "d84d2bcd-daa6-4c55-b566-807ea1f85904",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "dbb8da07-8c6f-456d-893f-13ab6ecec7c7",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "25ab435c-60e8-4225-9cff-79e8152b1f96",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "40157a53-ef8d-4761-bf4c-07e60a42467a",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "70986974-6b43-45b3-8073-32f0a5e20180",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "c34951ab-bd79-48a5-9225-fb1150e0e9f0",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "1e8578f7-f660-4fbb-988e-16e83763b17b",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "e8b381a4-2c46-4fc0-82f6-e4d2712a00b7",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "dd952912-75da-4a8b-9243-adfcae1c4c8a",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "383b32ae-7f28-4d90-806a-0953af7d842e",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "1887dfc1-cf3c-476d-b007-3b9546ee56ab",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "9b047819-97be-42fd-a93e-c4c4921fd9fd",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "4d165e9a-480d-40fd-a7cb-7eb32f259f7b",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "46f0a2f2-68c2-4540-99a9-db67645bb816",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "b5089072-67a3-4863-8904-0a1ef60793ed",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "4cb2d3e5-ab85-439c-a152-775567cbba14",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "db707ef4-1aa6-45a3-9322-a19a734f5a1c",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "ac2ce7be-87d3-49c0-a6ac-1d40dcfff9c1",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "2a79f3fd-2a59-473f-9880-4743ed3a3b48",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "17c90169-b54b-42d7-a4cd-2f92d21e3d6d",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "9e5ed87f-a67e-4c19-8193-af4422cd396c",
+            "story_type": "negative",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"negative\"\n}\n"
+        },
+        {
+            "id": "de20b9a9-f775-46e8-a83e-1cb3bd9c9108",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "5c06703a-14c6-4665-ab24-98d20aac2af3",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "c6c32233-c366-4fdb-bc4c-e1beb2a27516",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "618212c6-6ac7-4c46-ae38-a460817432d6",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "d9b7e07e-c739-4908-a8ca-62c1a15de37c",
+            "story_type": "neutral",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"neutral\"\n}\n```"
+        },
+        {
+            "id": "838797b4-4f58-46a5-95e2-ff9d8fcd6e2e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7a37eaf8-0daf-4e87-b81b-36c36527f596",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n  \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "2d40d53b-f1c1-4192-be52-5980ab8dfe85",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "432ca2cd-b9de-4ce6-942e-357d9b91cd62",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "972ca807-a176-4304-8b05-72fec0f7e479",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "5fac2faa-988b-49c2-9124-f7a050b49094",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "69a3fe0d-588a-485f-aa9e-b7bb5f311b34",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7a07c0d8-20c5-415b-9e55-7f9cda2b40a8",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "a6c2726f-7170-4ea9-966e-87678bfc243d",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "766040dd-a69f-4234-b309-844cbfff8cfc",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7eae1c5c-3770-45f5-9fe6-45270bf530b6",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "23bb9a1e-2d70-4a5a-810a-45fd734d153e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "5a59c047-eb53-490f-a645-19b802c0e483",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "0ee5f07b-8ad0-4b0f-99f1-250bf1693edb",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "cb148d2d-5252-465a-b211-96f38b2dfa4c",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "3e9e0ceb-1b25-4e0d-8339-5f10f697d580",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7650bf02-23d1-4312-9d40-91134bf40488",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "a003b811-c6ba-408a-8a54-603ed4d52381",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "e4d37b5c-7194-4db1-be2b-45d248e2172b",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "02a4c07c-b99e-41ac-a11a-232af76d7685",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "4cf04a89-1acb-46ea-a1d9-384bb27b026a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "1306bcfa-fcc7-4d83-80e8-092bcccf22c0",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "6f17feba-e7e2-4fe6-833b-c1306ccdf98f",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "10996133-5472-428e-9a5b-62ca1c755a7b",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "dddb9d33-9987-489a-8244-0d6f72294242",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "f0b3a675-f8f0-412e-8e1f-6f9a9f69d714",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "74973ba5-eaf9-4420-9ce8-b30bff5b68f7",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "02b37cbd-3105-48d5-9da6-5c762108fb76",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "92f7d7b6-0338-4d6c-a4b5-305fd334766e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "a7cd46a7-531f-4ad6-bc2f-83a217fe949d",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "3e27039e-c502-457a-9794-0292e2a79150",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "004cb1ef-b2e0-4ee8-9fcf-837362010b0e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "e4abe4ae-38a2-4057-9367-b0586ddf5e04",
+            "story_type": "neutral",
+            "evaluation_ending_type": "```\n{\n    \"ending\": \"neutral\"\n}\n```"
+        },
+        {
+            "id": "75d9389b-6040-4b2c-b028-9707d8988650",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "53245ca6-877c-449d-a792-d99df43ea1e6",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "bec5c18d-3abf-4703-a1cf-2ef8aa27556a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "b1aa1f60-4b67-4554-86f1-65b2e215fd42",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "032e52e9-ff87-4d27-a5ce-08de15023d61",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7d7d28c2-9a3b-4965-904b-e1ae66d0afa3",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "1a0590c0-ede3-42f7-8fde-1c29ef5768ca",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "ed01fc9b-a50f-43c3-b3b9-8aefc1163cd5",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "6b81e26c-b771-4339-bad7-6fcee65c1170",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "8a2b6834-93b1-4589-9715-5952b18e2697",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "85a4129e-dcf4-4cfa-8d0f-5159fc6797bd",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "b6008b34-8fa7-4751-966f-df9536307cfd",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "3483bc05-31e0-43dc-9a7a-796375f5ba69",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "2a43645d-3b06-4fa6-bd13-e29b6611ccc7",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "ad7987bd-ab1d-4990-b601-b78bb97f3734",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "a88ac966-549e-4507-961f-cd6aa7c972cb",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "488e0c4e-4aa5-4cc3-8329-3270fd040ac5",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "468672cc-d785-4370-86f7-3a2543ea9b21",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "9ffde149-422a-4f64-a755-4686da5f0c4a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "f2134ea6-11d7-43da-8c40-d6f9aac96c49",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "f3b3ef97-44dc-464f-ac60-8b9ae31570fc",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "1829297d-fe4d-4625-a63e-e82e08884bbf",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "80e8e84d-a456-4848-95b3-8b8e3f47d6a9",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "f4295916-e502-4df4-b0bd-e9c14dd5efcd",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "7ee69139-979a-4957-896b-586744ecf833",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "4760b679-b087-4429-a8c3-9b94e98cac7e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "1f4824a8-0db9-4c5e-8893-0af873ff709f",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "b9435da7-37c1-4ac0-97df-b20d5f6096cc",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "3d952f23-bb50-4713-a2a3-73eb7c33aad2",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "47e293ec-af12-40de-9893-0602bcf9d291",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "d7275398-b8aa-49e2-b859-3446adde4c5e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "acf00f68-ac62-400c-9805-1d107961633a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n   \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "2361f6ff-5452-4278-a8af-37eb28481e80",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "050bda47-333f-43f1-936c-a1cfd828324b",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "3a0e74a9-634b-469e-a52e-4fa3a05fa4cc",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "69f91be5-cfc8-4e1c-98db-fcbda97dc74e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "4fb62bcc-338a-43ab-ba7f-a0629212cba1",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "844de4b1-73fe-49a2-a4c7-a7a5ef04ee8f",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "d80ced17-ea8e-4bc4-af35-0afbde88a572",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "3e654e48-4505-47e6-a46a-65e57bb30ead",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "36258c6f-759c-4fda-9252-8433f326e614",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "1ca62ed3-9cc2-4096-9923-d1a9eb079bab",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "29175639-03db-4736-846d-0241dc8fde36",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "d19f027e-b738-4cf5-878b-55c427386b15",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "df96e580-7503-4661-9995-1bfabf7d8e8a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n  \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "9ea70b5c-ddfa-4097-a614-6d5246752577",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "a8c6cb3b-e212-4003-abb3-60ca564cce1e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n  \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "78e034ab-60a6-446e-a96d-d0feaa0af5b9",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "f16681ed-bda9-400c-a317-e98cb25ebdce",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "5e575d9f-b379-468a-a8a6-80303561267d",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "2b5da3cf-f766-4017-9c6e-51d5831f0926",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "74c23eb5-bb8b-4938-8865-3f2381206930",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "205afa86-afd3-45a5-b5aa-ee15b1dc065e",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "63dd9eb3-ee63-4b44-931f-23775b805ab6",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "d4491c53-097c-41d1-825b-3eaab8cfde5d",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "43f007cc-6531-4b91-9773-755e62f86c3b",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "809844a5-4575-438e-9dce-739f15891da6",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"positive\"\n}\n"
+        },
+        {
+            "id": "634c6201-aefd-49bf-9219-3fa28d68754b",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "8fc9175a-c3b4-4675-9eda-e7326246ccc1",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "fc5dc73e-ecbc-4ae2-8b8a-019d916df8de",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "cb13c2bc-0ad0-4130-97aa-d42ae9ca930f",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        },
+        {
+            "id": "32be42ed-9f72-4e70-ab27-5792dc74012a",
+            "story_type": "neutral",
+            "evaluation_ending_type": "\n{\n    \"ending\": \"neutral\"\n}\n"
+        }
+    ]
+}
