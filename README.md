@@ -1,6 +1,6 @@
 # Journey of ChatGPT from Prompts to Stories in Games: the Positive, the Negative, and the Neutral
 
-This repository contains the code for the paper "Journey of ChatGPT from Prompts to Stories in Games: the Positive, the Negative, and the Neutral".
+This repository contains the code for the paper "Journey of ChatGPT from Prompts to Stories in Games: the Positive, the Negative, and the Neutral" accepted at [IEEE ICCE-Berlin 2023](https://www.icce-berlin.org).
 
 ## Abstract
 
